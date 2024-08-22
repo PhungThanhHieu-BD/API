@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\bin\Debug\netcoreapp3.1\QLQA.Common.deps.json
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\bin\Debug\netcoreapp3.1\QLQA.Common.dll
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\bin\Debug\netcoreapp3.1\QLQA.Common.pdb
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\obj\Debug\netcoreapp3.1\QLQA.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\obj\Debug\netcoreapp3.1\QLQA.Common.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\obj\Debug\netcoreapp3.1\QLQA.Common.AssemblyInfo.cs
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\obj\Debug\netcoreapp3.1\QLQA.Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\obj\Debug\netcoreapp3.1\QLQA.Common.dll
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\obj\Debug\netcoreapp3.1\QLQA.Common.pdb
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\bin\Debug\netcoreapp3.1\QLQA.Common.runtimeconfig.json
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\bin\Debug\netcoreapp3.1\QLQA.Common.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\obj\Debug\netcoreapp3.1\QLQA.Common.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\QLQA\QLQA.Common\obj\Debug\netcoreapp3.1\QLQA.Common.genruntimeconfig.cache

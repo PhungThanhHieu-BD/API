@@ -1,0 +1,969 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\QLQA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|c:\\users\\dell\\source\\repos\\qlqa\\qlqa.bll\\donhangsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|solutionrelative:qlqa.bll\\donhangsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\searchdonhangreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\searchdonhangreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.bll\\usersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|solutionrelative:qlqa.bll\\usersvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\searchnhanvienreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\searchnhanvienreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.bll\\sanphamsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|solutionrelative:qlqa.bll\\sanphamsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.bll\\chitietdhsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|solutionrelative:qlqa.bll\\chitietdhsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\searchloaihangreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\searchloaihangreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\donhangrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\donhangrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\donhangreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\donhangreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\controllers\\chitietdhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\controllers\\chitietdhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\chitietdhrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\chitietdhrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\models\\chitietdh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\models\\chitietdh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\models\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\models\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\userrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\userrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\userreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\userreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.bll\\statisticirevenuesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|solutionrelative:qlqa.bll\\statisticirevenuesvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\statisticirevenuerep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\statisticirevenuerep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\chitietdhreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\chitietdhreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\searchsanphamreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\searchsanphamreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.bll\\loaihangsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|solutionrelative:qlqa.bll\\loaihangsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\controllers\\loaihangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\controllers\\loaihangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\sanphamrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\sanphamrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.bll\\nhanviensvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAF486B-C706-4A09-A7C6-215DCA14FB6D}|QLQA.BLL\\QLQA.BLL.csproj|solutionrelative:qlqa.bll\\nhanviensvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\loaihangreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\loaihangreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\loaihangrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\loaihangrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\QLQA\\WebTi\\Models\\QlbhContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebTi\\Models\\QlbhContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\sanphamreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\sanphamreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\simplereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\simplereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\nhanvienreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\nhanvienreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\nhanvienrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\nhanvienrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\rsp\\multiplersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\rsp\\multiplersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\rsp\\singlersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\rsp\\singlersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\rsp\\basersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\rsp\\basersp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\models\\giamgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\models\\giamgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\dal\\genericrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\dal\\genericrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\dal\\igenericrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\dal\\igenericrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\models\\qlbhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\models\\qlbhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.dal\\models\\giaohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C623D8-CC35-4468-AE9C-285FC5A6F253}|QLQA.DAL\\QLQA.DAL.csproj|solutionrelative:qlqa.dal\\models\\giaohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.web\\qlqa.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2411483E-D914-4EE1-9919-A86E757C9747}|QLQA.Web\\QLQA.Web.csproj|solutionrelative:qlqa.web\\qlqa.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\req\\basereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\req\\basereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\bll\\igenericsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\bll\\igenericsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|C:\\Users\\DELL\\source\\repos\\QLQA\\qlqa.common\\bll\\genericsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06310D5-F4B6-4980-B64D-5C72B5556F5F}|QLQA.Common\\QLQA.Common.csproj|solutionrelative:qlqa.common\\bll\\genericsvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSvc.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\UserSvc.cs",
+              "RelativeDocumentMoniker": "QLQA.BLL\\UserSvc.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\UserSvc.cs",
+              "RelativeToolTip": "QLQA.BLL\\UserSvc.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwFwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:06:36.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonHangSvc.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\DonHangSvc.cs",
+              "RelativeDocumentMoniker": "QLQA.BLL\\DonHangSvc.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\DonHangSvc.cs",
+              "RelativeToolTip": "QLQA.BLL\\DonHangSvc.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwHYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:36:21.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "QLQA.Web\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "QLQA.Web\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:16:38.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchNhanVienReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SearchNhanVienReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\SearchNhanVienReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SearchNhanVienReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\SearchNhanVienReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:00:42.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanPhamSvc.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\SanPhamSvc.cs",
+              "RelativeDocumentMoniker": "QLQA.BLL\\SanPhamSvc.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\SanPhamSvc.cs",
+              "RelativeToolTip": "QLQA.BLL\\SanPhamSvc.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAuwHMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:58:01.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiTietDhSvc.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\ChiTietDhSvc.cs",
+              "RelativeDocumentMoniker": "QLQA.BLL\\ChiTietDhSvc.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\ChiTietDhSvc.cs",
+              "RelativeToolTip": "QLQA.BLL\\ChiTietDhSvc.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:19:00.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchDonHangReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SearchDonHangReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\SearchDonHangReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SearchDonHangReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\SearchDonHangReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:37:08.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SearchLoaiHangReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SearchLoaiHangReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\SearchLoaiHangReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SearchLoaiHangReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\SearchLoaiHangReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:23:30.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "QLQA.Web\\Controllers\\DonHangController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "QLQA.Web\\Controllers\\DonHangController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA5wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:35:25.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DonHangRep.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\DonHangRep.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\DonHangRep.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\DonHangRep.cs",
+              "RelativeToolTip": "QLQA.DAL\\DonHangRep.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAkwIIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:36:56.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DonHangReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\DonHangReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\DonHangReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\DonHangReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\DonHangReq.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:09:38.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietDhController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\ChiTietDhController.cs",
+              "RelativeDocumentMoniker": "QLQA.Web\\Controllers\\ChiTietDhController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\ChiTietDhController.cs",
+              "RelativeToolTip": "QLQA.Web\\Controllers\\ChiTietDhController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:54:18.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietDhRep.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\ChiTietDhRep.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\ChiTietDhRep.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\ChiTietDhRep.cs",
+              "RelativeToolTip": "QLQA.DAL\\ChiTietDhRep.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwCkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:08:35.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChiTietDh.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\ChiTietDh.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\Models\\ChiTietDh.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\ChiTietDh.cs",
+              "RelativeToolTip": "QLQA.DAL\\Models\\ChiTietDh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:17:16.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StatisticController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\StatisticController.cs",
+              "RelativeDocumentMoniker": "QLQA.Web\\Controllers\\StatisticController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\StatisticController.cs",
+              "RelativeToolTip": "QLQA.Web\\Controllers\\StatisticController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvxIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:50:36.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "QLQA.Web\\Views\\KhachHang\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Views\\KhachHang\\DangKy.cshtml",
+              "RelativeToolTip": "QLQA.Web\\Views\\KhachHang\\DangKy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T03:19:50.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Models\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "QLQA.Web\\Models\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Models\\RegisterVM.cs",
+              "RelativeToolTip": "QLQA.Web\\Models\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:11:42.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRep.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\UserRep.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\UserRep.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\UserRep.cs",
+              "RelativeToolTip": "QLQA.DAL\\UserRep.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwGUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:08:41.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "QLQA.Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "QLQA.Web\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:50:32.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\UserReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\UserReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\UserReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\UserReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:01:43.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StatisticIRevenueSvc.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\StatisticIRevenueSvc.cs",
+              "RelativeDocumentMoniker": "QLQA.BLL\\StatisticIRevenueSvc.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\StatisticIRevenueSvc.cs",
+              "RelativeToolTip": "QLQA.BLL\\StatisticIRevenueSvc.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA5wCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:45:45.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StatisticIRevenueRep.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\StatisticIRevenueRep.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\StatisticIRevenueRep.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\StatisticIRevenueRep.cs",
+              "RelativeToolTip": "QLQA.DAL\\StatisticIRevenueRep.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:39:24.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChiTietDhReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\ChiTietDhReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\ChiTietDhReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\ChiTietDhReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\ChiTietDhReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:17:07.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SearchSanPhamReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SearchSanPhamReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\SearchSanPhamReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SearchSanPhamReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\SearchSanPhamReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:31:42.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoaiHangSvc.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\LoaiHangSvc.cs",
+              "RelativeDocumentMoniker": "QLQA.BLL\\LoaiHangSvc.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\LoaiHangSvc.cs",
+              "RelativeToolTip": "QLQA.BLL\\LoaiHangSvc.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowE8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:35:10.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoaiHangController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\LoaiHangController.cs",
+              "RelativeDocumentMoniker": "QLQA.Web\\Controllers\\LoaiHangController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\LoaiHangController.cs",
+              "RelativeToolTip": "QLQA.Web\\Controllers\\LoaiHangController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:59:10.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "QLQA.Web\\Controllers\\NhanVienController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "QLQA.Web\\Controllers\\NhanVienController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:25:03.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "QLQA.Web\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "QLQA.Web\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:48:46.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NhanVienSvc.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\NhanVienSvc.cs",
+              "RelativeDocumentMoniker": "QLQA.BLL\\NhanVienSvc.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.BLL\\NhanVienSvc.cs",
+              "RelativeToolTip": "QLQA.BLL\\NhanVienSvc.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwFYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:05:47.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SanPhamRep.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\SanPhamRep.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\SanPhamRep.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\SanPhamRep.cs",
+              "RelativeToolTip": "QLQA.DAL\\SanPhamRep.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:38:59.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoaiHangReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\LoaiHangReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\LoaiHangReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\LoaiHangReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\LoaiHangReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:36:03.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoaiHangRep.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\LoaiHangRep.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\LoaiHangRep.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\LoaiHangRep.cs",
+              "RelativeToolTip": "QLQA.DAL\\LoaiHangRep.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAmwFcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:00:41.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\User.cs",
+              "RelativeToolTip": "QLQA.DAL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T03:00:32.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\Size.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\Models\\Size.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\Size.cs",
+              "RelativeToolTip": "QLQA.DAL\\Models\\Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:03:28.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\Role.cs",
+              "RelativeToolTip": "QLQA.DAL\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:45:15.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\DonHang.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\Models\\DonHang.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\DonHang.cs",
+              "RelativeToolTip": "QLQA.DAL\\Models\\DonHang.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:13:10.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "QlbhContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\WebTi\\Models\\QlbhContext.cs",
+              "RelativeDocumentMoniker": "WebTi\\Models\\QlbhContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\WebTi\\Models\\QlbhContext.cs",
+              "RelativeToolTip": "WebTi\\Models\\QlbhContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T03:59:20.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SanPhamReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SanPhamReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\SanPhamReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SanPhamReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\SanPhamReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:42:35.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SimpleReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SimpleReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\SimpleReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\SimpleReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\SimpleReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:49:34.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\Models\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\NhanVien.cs",
+              "RelativeToolTip": "QLQA.DAL\\Models\\NhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:04:54.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NhanVienReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\NhanVienReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\NhanVienReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\NhanVienReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\NhanVienReq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:04:36.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "NhanVienRep.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\NhanVienRep.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\NhanVienRep.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\NhanVienRep.cs",
+              "RelativeToolTip": "QLQA.DAL\\NhanVienRep.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwFoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:53:09.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MultipleRsp.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Rsp\\MultipleRsp.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Rsp\\MultipleRsp.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Rsp\\MultipleRsp.cs",
+              "RelativeToolTip": "QLQA.Common\\Rsp\\MultipleRsp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:45:09.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SingleRsp.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Rsp\\SingleRsp.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Rsp\\SingleRsp.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Rsp\\SingleRsp.cs",
+              "RelativeToolTip": "QLQA.Common\\Rsp\\SingleRsp.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:43:55.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BaseRsp.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Rsp\\BaseRsp.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Rsp\\BaseRsp.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Rsp\\BaseRsp.cs",
+              "RelativeToolTip": "QLQA.Common\\Rsp\\BaseRsp.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAADwv6UAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:42:09.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GiamGium.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\GiamGium.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\Models\\GiamGium.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\GiamGium.cs",
+              "RelativeToolTip": "QLQA.DAL\\Models\\GiamGium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:51:46.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GenericRep.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\DAL\\GenericRep.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\DAL\\GenericRep.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\DAL\\GenericRep.cs",
+              "RelativeToolTip": "QLQA.Common\\DAL\\GenericRep.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAwwD8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:38:32.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IGenericRep.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\DAL\\IGenericRep.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\DAL\\IGenericRep.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\DAL\\IGenericRep.cs",
+              "RelativeToolTip": "QLQA.Common\\DAL\\IGenericRep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:35:47.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "QLQA.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\appsettings.json",
+              "RelativeToolTip": "QLQA.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T01:28:42.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "QLQA.Web\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\WeatherForecast.cs",
+              "RelativeToolTip": "QLQA.Web\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:34:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "QLQA.Web\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "QLQA.Web\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:27:21.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\KhachHang.cs",
+              "RelativeToolTip": "QLQA.DAL\\Models\\KhachHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:51:52.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "QLBHContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\QLBHContext.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\Models\\QLBHContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\QLBHContext.cs",
+              "RelativeToolTip": "QLQA.DAL\\Models\\QLBHContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:56:11.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GiaoHang.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\GiaoHang.cs",
+              "RelativeDocumentMoniker": "QLQA.DAL\\Models\\GiaoHang.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.DAL\\Models\\GiaoHang.cs",
+              "RelativeToolTip": "QLQA.DAL\\Models\\GiaoHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:51:49.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "QLQA.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\QLQA.Web.csproj",
+              "RelativeDocumentMoniker": "QLQA.Web\\QLQA.Web.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Web\\QLQA.Web.csproj",
+              "RelativeToolTip": "QLQA.Web\\QLQA.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T01:40:38.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GenericSvc.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\BLL\\GenericSvc.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\BLL\\GenericSvc.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\BLL\\GenericSvc.cs",
+              "RelativeToolTip": "QLQA.Common\\BLL\\GenericSvc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:56:20.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IGenericSvc.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\BLL\\IGenericSvc.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\BLL\\IGenericSvc.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\BLL\\IGenericSvc.cs",
+              "RelativeToolTip": "QLQA.Common\\BLL\\IGenericSvc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:51:03.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BaseReq.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\BaseReq.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\BaseReq.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\BaseReq.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\BaseReq.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvzsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:48:27.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\BaseModel.cs",
+              "RelativeDocumentMoniker": "QLQA.Common\\Req\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\QLQA\\QLQA.Common\\Req\\BaseModel.cs",
+              "RelativeToolTip": "QLQA.Common\\Req\\BaseModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvzcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:47:15.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
